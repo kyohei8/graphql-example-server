@@ -12,5 +12,4 @@ const CommentList = [
   }
 ];
 
-export default { CommentList };
-
+export default CommentList;
