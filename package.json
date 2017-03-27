@@ -1,0 +1,12 @@
+{
+  "name": "grahpql-server",
+  "version": "1.0.0",
+  "engines" : {
+    "node" : ">=6.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "graphql": "^0.9.1"
+  }
+}
