@@ -2,7 +2,7 @@ const express = require('express');
 const graphql = require('graphql');
 const bodyParser = require('body-parser');
 const compression = require('compression');
-const schema = require('./schema.js');
+const schema = require('./app/schema.js');
 const app  = express();
 const PORT = 3000;
 
